@@ -1,0 +1,5 @@
+##### Core scientific packages
+jupyter
+numpy
+pandas
+matplotlib
